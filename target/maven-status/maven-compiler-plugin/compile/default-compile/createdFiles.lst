@@ -1,0 +1,6 @@
+com\mycompany\library\model\Livro.class
+com\mycompany\library\model\Publicacao.class
+com\mycompany\library\model\Impressao.class
+Main.class
+com\mycompany\library\model\Livraria.class
+com\mycompany\library\model\Revista.class
